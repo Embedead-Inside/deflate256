@@ -1,0 +1,22 @@
+===============================================================================
+NOTICE - AI-Assisted Development Acknowledgement
+===============================================================================
+
+[ English ]
+This repository contains source code and documentation that have been generated, 
+optimized, refactored, or documented with the assistance of Artificial 
+Intelligence (AI) tools. 
+
+While the core logic and architectural decisions are directed by the author, 
+the structural implementation, performance tuning, and comments may include 
+AI-generated outputs.
+
+[ 日本語 ]
+本リポジトリに含まれるソースコードおよびドキュメントの生成、リファクタリング、
+速度最適化、記述の調整、およびコメント（Doxygen等）の作成にあたっては、
+AI（人工知能）による開発支援・調整が活用されています。
+
+基本設計やアーキテクチャの決定は開発者の指示に基づきますが、具体的なコードの
+落とし込みやパフォーマンスチューニングの一部にはAIの出力が含まれています。
+
+===============================================================================
